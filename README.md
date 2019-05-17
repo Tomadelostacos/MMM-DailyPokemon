@@ -7,6 +7,7 @@ MMM-DailyPokemon provides a unique Pokemon each day, as well as information abou
 Built Using [PokeAPI](https://pokeapi.co/)
 
 ![Demo Image](https://github.com/Tomadelostacos/MMM-DailyPokemon/blob/feature/translation/images/demo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTomadelostacos%2FMMM-DailyPokemon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTomadelostacos%2FMMM-DailyPokemon?ref=badge_shield)
 
 ## Using the module
 
@@ -90,3 +91,7 @@ These are the things i'd like to add in the future
 - Maybe add generation ? Capture rate ? Egg group ? Don't know at all ! 
 
 If you got ideas, or corrections, let me know. I'm also not a NodeJS senior, so maybe my code can be better than it currently is, so let me know about it too ! 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTomadelostacos%2FMMM-DailyPokemon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTomadelostacos%2FMMM-DailyPokemon?ref=badge_large)
